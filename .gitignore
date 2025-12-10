@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 cleaned_data.parquet
+cleaned_data_first.parquet
+cleaned_data_last.parquet
