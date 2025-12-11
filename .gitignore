@@ -130,3 +130,6 @@ dmypy.json
 cleaned_data.parquet
 cleaned_data_first.parquet
 cleaned_data_last.parquet
+# Large generated data files (over 100MB GitHub limit)
+*.npz
+*.npy
